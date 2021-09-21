@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Jéssica Camargos 👋
 
-- 🔭 Trabalhando como desenvolvedora front-end
+- 🔭 Estagiária de software engineer
 - 🌱 Estudando Python
 
 <div>
