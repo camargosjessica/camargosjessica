@@ -2,6 +2,7 @@
 
 - 🔭 Estagiária de software engineer
 - 🌱 Estudando Python
+- 💙 Com um pequeno amor por C#
 
 <div>
   <a href="https://github.com/camargosjessica">
